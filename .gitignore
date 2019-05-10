@@ -1,3 +1,6 @@
+#fichier a ignorer
+ecadis_extract_tab.csv
+inventaire_tab.json
 # Logs
 logs
 *.log
