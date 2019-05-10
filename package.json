@@ -1,0 +1,30 @@
+{
+  "name": "tool",
+  "version": "1.0.0",
+  "description": "Plusieurs outils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christophe Rime",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "babel": "^6.23.0",
+    "convert-csv-to-json": "0.0.14",
+    "eslint": "^5.16.0",
+    "express": "^4.16.4",
+    "ifttt-webhooks-connector": "^2.0.4",
+    "jsonfile": "^5.0.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherime/tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christopherime/tool/issues"
+  },
+  "homepage": "https://github.com/christopherime/tool#readme"
+}
