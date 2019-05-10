@@ -14,6 +14,7 @@
     "convert-csv-to-json": "0.0.14",
     "express": "^4.16.4",
     "ifttt-webhooks-connector": "^2.0.4",
+    "jshint": "^2.10.2",
     "jsonfile": "^5.0.0",
     "request": "^2.88.0"
   },
